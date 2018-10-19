@@ -3,7 +3,7 @@ MicroApplication to register Mailgun Fails
 
 ## Preview
 
-![alt text](https://raw.githubusercontent.com/siccl/Mailgun-Webhooks/master/images/preview.png)
+![preview.png](https://raw.githubusercontent.com/siccl/Mailgun-Webhooks/master/images/preview.png)
 
 ## Install
 
