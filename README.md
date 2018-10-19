@@ -1,2 +1,18 @@
 # Mailgun-Webhooks
-MicroApplication to control Mailgun Fails
+MicroApplication to register Mailgun Fails
+
+## Preview
+
+![alt text](https://raw.githubusercontent.com/siccl/Mailgun-Webhooks/master/images/preview.png)
+
+## Install
+
+-	Copy files to server Folder
+-	Change config.php data to your server
+-	Create table using mysql.sql
+-	Test from https://app.mailgun.com/app/webhooks
+
+## Aditional Tasks
+
+-	Add Security to index.php
+-	Change log path if you needed to use
