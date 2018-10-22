@@ -16,3 +16,15 @@ MicroApplication to register Mailgun Fails
 
 -	Add Security to index.php
 -	Change log path if you needed to use
+
+## Next Steps
+
+-	Setup process
+-	Settings page
+-	Delivered Messages
+-	Opens
+
+## Future
+
+-	Clicks
+-	Unsubscribes
